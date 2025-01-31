@@ -1,6 +1,3 @@
-Here's a **simple README** for your project:  
-
----
 
 # **Distributed University Management System – 2PC Implementation**  
 
